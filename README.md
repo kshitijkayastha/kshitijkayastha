@@ -1,6 +1,7 @@
-- 👋 Hello, I’m Kshitij [@tetrahedron3c]
+- 👋 Hello, I’m Kshitij (pronounciation: shith-ij)
 - 👀  I’m interested in data science, math, and computer science is what I tell people
 - ⚛️  I’m currently learning about Neural Networks
+- ❤️ I enjoy solving problems with data 
 - 📫 Reach out to me via kshitijkayastha@gmail.com
 
 <!---
