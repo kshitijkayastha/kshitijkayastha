@@ -1,6 +1,6 @@
 - 👋🏽  Hello, I’m Kshitij (pronounciation: Shith-ij)
 - 👀  I’m interested in Machine Learning, Mathematics, and Software Engineering
-- ⚛️  I know Python, Java, Javascript, C++, and C
+- ⚛️  I know Python, Java, Javascript, C++, C, and a little bit of SQL
 - ❤️  I'm currently reading Atomic Habits by James Clear
 - 📫  Reach out to me at kshitijkayastha@gmail.com
 
