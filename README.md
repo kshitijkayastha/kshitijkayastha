@@ -1,6 +1,6 @@
 - 👋🏽  Hello, I’m Kshitij (pronounciation: Shith-ij)
-- 👀  I’m interested in Machine Learning, Mathematics, and Software Engineering
-- ⚛️  I know Python, Java, Javascript, C++, C, and a little bit of SQL
+- 👀  I’m interested in Data Science and Software Engineering
+- ⚛️  I've been coding in Python (whiz), Java (enthusiast), Javascript (enthusiast), Swift (noob++), and C (noob)
 - 📫  Reach out to me at kshitijkayastha@gmail.com
 
 <!---
